@@ -3,4 +3,4 @@
 * poster
 
 
-[poster](poster_Kaggle Walmart.png)
+![poster](./poster_Kaggle Walmart.png)
