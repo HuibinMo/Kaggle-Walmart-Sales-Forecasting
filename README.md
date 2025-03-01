@@ -3,4 +3,4 @@
 * poster
 
 
-![poster](./poster_Kaggle Walmart.png)
+![poster](https://github.com/HuibinMo/Kaggle-Walmart-Sales-Forecasting/blob/main/poster_Kaggle%20Walmart.png)
